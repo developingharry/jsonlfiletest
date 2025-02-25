@@ -1,0 +1,1 @@
+This folder will store file(s) for the 'githubtemptest' environment.
