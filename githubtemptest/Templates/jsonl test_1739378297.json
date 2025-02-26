@@ -1,0 +1,28 @@
+{
+  "VersionedCycle": {
+    "Tags": [],
+    "Published": false
+  },
+  "Steps": [],
+  "Edges": [],
+  "Variables": [],
+  "TemplateConnectorInstallations": [],
+  "Status": 0,
+  "CreatedOnUtc": "2025-02-12T16:12:22",
+  "UpdatedOnUtc": "2025-02-12T16:38:17",
+  "LastSuccessfulRunDate": "2025-02-12T16:35:55",
+  "Shareable": false,
+  "ShareFields": true,
+  "ShareAllFields": false,
+  "LaunchRunOnce": false,
+  "LogStepDataRequests": true,
+  "CycleCollectionSplitType": 1,
+  "RunOnce": false,
+  "CycleStepErrorAction": 1,
+  "MaxRetriesOnError": 3,
+  "EnableLargeFiles": false,
+  "EnableDataTypeMismatchWarningsForLaunch": false,
+  "Name": "jsonl test",
+  "CustomMethodReleases": [],
+  "ExportedConnectors": []
+}
